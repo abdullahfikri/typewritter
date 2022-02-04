@@ -68,6 +68,9 @@ h2 {
   h1 {
     font-size: 3rem;
   }
+  h1 > span {
+    display: block;
+  }
 }
 @media (max-width: 500px) {
   h1 {
